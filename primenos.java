@@ -2,7 +2,7 @@ class primenos
 {
  public static void main(String args[])
  {
-  int num,div,rem,flag;
+  int num,div,rem,flag
   for (num=3;num<=30;num++)
   {
    flag=1;
