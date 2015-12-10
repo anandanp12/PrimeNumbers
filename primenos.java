@@ -3,7 +3,7 @@ class primenos
  public static void main(String args[])
  {
   int num,div,rem,flag;
-  for (num=3;num<=50;num++)
+  for (num=3;num<=100;num++)
   {
    flag=1;
    for (div=2;div<=(num/2);div++)
